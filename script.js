@@ -11,7 +11,7 @@ buttons.forEach((button) => {
       mathematicalExpresion += getInputValue();
       dispaly.value = evaluate(mathematicalExpresion);
       mathematicalExpresion = "";
-    } else if (pressedButton === "AC") {
+    } else if (pressedButton === "C") {
       clearDisplay();
     } else if (!pressedButton.includes(operations)) {
       dispaly.value += pressedButton;
