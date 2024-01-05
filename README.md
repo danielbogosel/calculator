@@ -7,6 +7,7 @@ This project represent a browser calculator with the 4 operations:
 - **DIVIDE(/)**
 - **SUBSTRACTION(-)**
 
-\*\* Demo
+# Demo
+
 The project was deployed here:
 [db-it-school-calculator](https://db-it-school-calculator.netlify.app/)
